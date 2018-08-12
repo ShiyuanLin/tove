@@ -5,7 +5,7 @@ Tove Project
 
 To use this template, your computer needs:
 
-- [Python 2 or 3](https://python.org)
+- [Python 2](https://python.org)
 - [Pip Package Manager](https://pypi.python.org/pypi)
 
 
